@@ -1,38 +1,57 @@
 ---
-title: Hello World
+title: 个人品牌「菠萝头说」
+date: 2017/8/20 21:30:00
+tags:
+- 技术
+- 产品
+
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+最近在重新整理个人品牌「菠萝头说」。
 
-### Create a new post
+个人品牌需要从三个部分描述：商业模式、产品架构、运营体系。
 
-``` bash
-$ hexo new "My New Post"
-```
+## 商业模式
+「菠萝头说」是在践行我的第二类商业模式「**将一份时间卖出很多份**」，实现的办法是通过**写作**这种形式，从写文章，到写系列文章，到出版书籍。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+## 产品架构
+既然商业模式是通过写作，那么内容即产品。目前品牌下有两种产品：
 
-### Run server
+### 菠萝头日志
+这是一个**每天**的140字精进思考产出，重点是一年365天每天不间断。
 
-``` bash
-$ hexo server
-```
+产品内容来自生活、职场和其他输入源。内容包括一段140字的精进思考文字，以及一张配图。
 
-More info: [Server](https://hexo.io/docs/server.html)
+产品的表现形式为图片，图片除了承载产品内容外，还包括漏斗时间，以及渠道的二维码（目前仅限微信）。重点突出的主题是：与时间做朋友。
 
-### Generate static files
+### 菠萝头说
+菠萝头说就是长图文，也是实现第二类商业模式的重点产品。目前的更新频率不高，我需要着重在这方面规划栏目和加强产出。
 
-``` bash
-$ hexo generate
-```
+现在有一个主题：**让成长持续交付**。其中暂定包括商业、管理、产品、生涯、职场五个主题。
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+## 运营体系
+运营体系主要解决如何能够让产品持续更新，以及让更多人能够发现产品并持续留存。
 
-### Deploy to remote sites
+### 运营渠道
+酒香还怕巷子深，我之前擅长做产品，吃了运营的亏。重新回顾了第二类商业模式，要将一份时间卖出好多份，就应该在各渠道铺满。同时为了保证品牌以及优化运营成本，只在脾性一致的渠道投放。
 
-``` bash
-$ hexo deploy
-```
+目前「菠萝头日志」入驻的渠道有：
+> 微信朋友圈
+> 微信公众平台
+> 微博
 
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+目前「菠萝头说」入驻的渠道有：
+> 微信公众平台
+> 简书
+> 知乎
+> 豆瓣阅读
+> 领英Linkedin
+> 网易号
+> 企鹅号
+> liuyigong.com
+
+liuyigong.com 采用Hexo + Github Pages搭建，花费了我一个周末的时间，终于捡回了之前的Github以及技术调试的技能，还算满意。这个应该算是最独立的渠道了，可以完全控制。
+
+今年30岁，立帖为证。祝好运。
+
+: end )
