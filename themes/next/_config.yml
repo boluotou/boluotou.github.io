@@ -324,8 +324,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: liuyigong
   count: true
 
 # Hypercomments
