@@ -90,8 +90,11 @@ scheme: Pisces
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
+social:
+  GitHub: https://github.com/boluotou
+  E-Mail: mailto:liuyigong@gmail.com
+  Wechat: http://ov10fv9bi.bkt.clouddn.com/Wechat-QRCode.jpg
+  Weibo: https://weibo.com/boluotou/
 
 # Social Links Icons
 # Icon Mapping:
@@ -115,6 +118,7 @@ social_icons:
   Instagram: instagram
   StackOverflow: stack-overflow
   Weibo: weibo
+  Wechat: weixin
 
 # Blog rolls
 #links_title: Links
