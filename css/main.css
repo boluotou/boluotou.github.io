@@ -185,7 +185,7 @@ th {
 }
 body {
   position: relative;
-  font-family: "Microsoft YaHei", Verdana, sans-serif;
+  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 16px;
   line-height: 2;
   color: #555;
@@ -216,7 +216,7 @@ h6 {
   padding: 0;
   font-weight: bold;
   line-height: 1.5;
-  font-family: "Microsoft YaHei", Georgia, sans;
+  font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 h2,
 h3,
@@ -1809,7 +1809,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #6b491c;
+  background: #acd07f;
 }
 .links-of-blogroll {
   font-size: 13px;
