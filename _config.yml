@@ -78,5 +78,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@boluotou.github.com:boluotou/boluotou.github.io.git
+  repo: git@github.com:boluotou/boluotou.github.io.git
   branch: master
